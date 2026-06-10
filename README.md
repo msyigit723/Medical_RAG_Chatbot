@@ -53,3 +53,6 @@ Vektör veritabanı (ChromaDB) ilk açılışta `train-00000-of-00001.parquet` v
 
 ## ⚠️ Önemli Uyarı
 Bu proje geliştirici portfolyosu kapsamında eğitim ve örnek amaçlı yapılmıştır. Bot tarafından sağlanan bilgiler **kesin tanı veya tedavi amacı taşımaz**. Tüm sağlık problemlerinizde öncelikle profesyonel bir hekime ve sağlık kuruluşuna başvurunuz.
+## Katkı
+
+Bu proje ortak çalışma kapsamında geliştirilmiştir.
